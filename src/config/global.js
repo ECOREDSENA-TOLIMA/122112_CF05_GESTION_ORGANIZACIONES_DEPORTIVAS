@@ -1,17 +1,22 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Caracterización poblacional',
+    descripcionCurso:
+      'Para este componente se abordará, la caracterización de la población, a partir de las características de los eventos en el sector del deporte, se abordarán diferentes elementos conceptuales que brindarán las herramientas para elaborar una caracterización, teniendo en cuenta las particularidades de la organización y su tipo de población.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/float-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/float-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/float-3.svg'),
       },
     ],
   },
@@ -31,28 +36,84 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Caracterización poblacional',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Segmentación poblacional ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Segmentación demográfica',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Segmentación geográfica',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Segmentación psicográfica',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Segmentación de conducta',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Grupo poblacional',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Sectores económicos: primario, secundario y terciario',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'División según la economía clásica',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'División según la actividad económica',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Estratificación social',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Instituciones públicas y privadas',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Las instituciones públicas',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Las instituciones privadas',
+            hash: 't_6_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,32 +163,71 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Sistema de castas',
+      referencia: 'Historiando (s.f.). Sistema de castas. ',
+      tipo: 'Página web',
+      link: 'https://www.historiando.org/sistema-de-castas/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Grupos étnicos en Colombia',
+      referencia:
+        'Ministerio de educación nacional (s.f.). Grupos étnicos en Colombia. ',
+      tipo: 'Página web',
+      link:
+        'https://www.mineducacion.gov.co/1759/w3-article-378980.html?_noredirect=1',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Caracterización',
+      significado:
+        'determinar atributos particulares de alguien o de algo, de modo que claramente se distinga de los demás.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Población',
+      significado:
+        'conjunto de personas que habitan una determinada área geográfica.',
+    },
+    {
+      termino: 'Segmentación',
+      significado: 'es la delimitación de la población en pequeños grupos.',
+    },
+    {
+      termino: 'Sectores Económicos',
+      significado:
+        'cada sector se refiere a una parte de la actividad económica cuyos elementos tienen características comunes, guardan una unidad y se diferencian de otras agrupaciones. Su división se realiza de acuerdo a los procesos de producción que ocurren al interior de cada uno de ellos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Alberto Cajal. (2019). Sectores Económicos de Colombia: Primario, Secundario, Terciario. Lifeder. ',
+      link: 'https://www.lifeder.com/sectores-economicos-colombia/',
+    },
+    {
+      referencia:
+        'Badía, J. F. (1974). <em>Casta, estamento y clase social. Revista de estudios políticos</em>, (198), 23-66',
       link: '',
+    },
+    {
+      referencia:
+        'Garavaglia, J., y Marchena, J., (2005). <em>América Latina. De los orígenes a la independencia</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Francisco Coll Morales (14 de enero, 2021). <em>Sociedad estamental</em>.',
+      link: 'https://economipedia.com/',
+    },
+    {
+      referencia:
+        'Kotler, Philip, & Alan, R. (1987). <em>Strategic Marketing for Nonprofit Organizations</em>, third edition. Englewood Cliffs, NJ: Prentice-Hall.',
+      link: '',
+    },
+    {
+      referencia:
+        'Myriam Quiroa (06 de marzo, 2021). Segmentación demográfica.',
+      link: 'https://economipedia.com/',
     },
   ],
   creditos: [
@@ -161,6 +261,24 @@ export default {
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
+        {
+          nombre: 'Gloria Lida Alzate Suarez',
+          cargo: 'Adecuador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor Metodológico',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Guadrón',
+          cargo: 'Responsable Línea de Producción Distrito Capital',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
         {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
