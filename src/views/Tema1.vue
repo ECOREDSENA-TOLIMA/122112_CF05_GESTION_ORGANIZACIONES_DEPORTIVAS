@@ -23,11 +23,12 @@
 
     p Para diseñar una caracterización se deben tener en cuenta diferentes variables, las cuales determinarán los puntos a analizar en la población, por ejemplo: variables demográficas, geográficas, etc. Agrupar la población según estas variables se llama segmentación de la población, teniendo en cuenta la siguiente estructura:
 
-    .container-100.d-flex.flex-wrap.justify-content-center.py-5(
+    .container-100.d-flex.flex-wrap.justify-content-center.py-5.d-none.d-md-flex(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.svg')})`}"
       style="background-repeat: no-repeat; background-position: left bottom; background-size: cover; margin-bottom: -3rem"
     )
       img.mx-auto.pb-5(src="@/assets/curso/temas/tema1/img-2.svg" style="max-width: 1210px")
+    img.mx-auto.pb-5.d-flex.d-md-none(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 606px")
       
 </template>
 
