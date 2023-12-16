@@ -163,18 +163,18 @@ export default {
   },
   complementario: [
     {
-      tema: 'Sistema de castas',
+      tema: '3. Sistema de castas',
       referencia: 'Historiando (s.f.). Sistema de castas. ',
       tipo: 'Página web',
       link: 'https://www.historiando.org/sistema-de-castas/',
     },
     {
-      tema: 'Grupos étnicos en Colombia',
+      tema: '5. Grupos étnicos en Colombia',
       referencia:
-        'Ministerio de educación nacional (s.f.). Grupos étnicos en Colombia. ',
+        'Ministerio de educación nacional (s.f.). Grupos étnicos en Colombia.',
       tipo: 'Página web',
       link:
-        'https://www.mineducacion.gov.co/1759/w3-article-378980.html?_noredirect=1',
+        'https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Grupos-Etnicos-de-Colombia/',
     },
   ],
   glosario: [
@@ -235,15 +235,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -251,10 +251,43 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Tatiana Cristina Vargas',
+          cargo: 'Experto temático',
+          centro: 'Regional Antioquia - Centro de servicios de salud',
+        },
+        {
+          nombre: 'Paola Andrea Quintero Aguilar',
+          cargo: 'Diseño instruccional',
+          centro: 'Regional Bogotá - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesoría metodológica y pedagógica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo: 'Responsable equipo de desarrollo curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Gloria Lida Alzate Suarez',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -286,20 +319,14 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -309,22 +336,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

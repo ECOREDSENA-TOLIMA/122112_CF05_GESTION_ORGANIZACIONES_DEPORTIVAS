@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Caracterización poblacional
+      h1 Estratificación social
     
     .col-xl-10.mx-auto.d-flex.flex-wrap.mb-5
       img.mx-auto.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-1.png" style="max-width: 505px" alt="Imagen decorativa")
@@ -20,7 +20,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img-2.png' alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema5/img-2.png' alt="Imagen decorativa")
       
       .py-4.py-md-5(titulo="El sistema de castas" :icono="require('@/assets/curso/temas/tema5/t-2.svg')")
         .row.col-xl-10.mx-auto
@@ -31,7 +31,10 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img-3.svg' alt='Imagen decorativa')
+              img(
+                src='@/assets/curso/temas/tema5/img-3.svg'
+                alt='Imagen que representa el sistema de castas en el imperio español, donde el triangulo se divide en 5 partes que de arriba hacía abajo se encuentra: 1. Brahamanes: sacerdotes, intelectuales y profesores. 2. Kshátriyas: son guerreros y reyes. 3. Vaishyas: son los comerciantes. 4. Shudras: son los campesinos y trabajadores. 5. Dális: son los parias intocables.'
+              )
       
       .py-4.py-md-5(titulo="El sistema estamental" :icono="require('@/assets/curso/temas/tema5/t-3.svg')")
         .row.col-xl-10.mx-auto
@@ -40,13 +43,13 @@
             p Estaba jerarquizada y se dividía en tres estamentos, siendo un sistema cerrado con poca movilidad entre estos; esta se divide en tres estamentos:
             ul
               li.d-flex.align-items-start
-                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
                 p.ps-2.mb-0(data-aos="fade-left") #[strong Nobleza:] controlaban junto al clero, todo el poder, ellos contaban con todos los derechos y privilegios.
               li.d-flex.align-items-start
-                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
                 p.ps-2.mb-0(data-aos="fade-left") #[strong Clero:] se encuentra en el centro de la pirámide, sin embargo, tenían mucho poder y dominaban juntos con la nobleza.
               li.d-flex.align-items-start
-                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
                 p.ps-2.mb-0(data-aos="fade-left") #[strong Tercer Estado:] era el estrato más bajo. No tenían derechos y privilegios.
 
           .col-md-6
@@ -79,7 +82,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img-4.png' alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema5/img-4.png' alt="Imagen decorativa")
 
 </template>
 

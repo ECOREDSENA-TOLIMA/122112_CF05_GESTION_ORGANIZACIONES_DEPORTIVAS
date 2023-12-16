@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Segmentación poblacional
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-botones.p-3.p-sm-4
       .bloque-texto-g__img(
@@ -24,49 +24,49 @@
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-1.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-1.png' alt='Imagen decorativa Edad' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Edad
         p.mb-0.text-center(style="color: black") La edad permite clasificar la población en adultos o niños, adolescentes y jóvenes.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-2.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-2.png' alt='Imagen decorativa Sexo' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Sexo
         p.mb-0.text-center(style="color: black") Esta variable hace referencia al sexo como mujer u hombre, su identificación desde su comportamiento.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-3.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-3.png' alt='Imagen decorativa Tamaño de la familia' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Tamaño de la familia
         p.mb-0.text-center(style="color: black") Hace referencia a la estructura y el número de miembros que conforman la familia.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-4.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-4.png' alt='Imagen decorativa Ciclo de vida' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Ciclo de vida
         p.mb-0.text-center(style="color: black") Se podría categorizar a una persona, según el punto que esté experimentando en su ciclo de vida familiar, en las siguientes etapas: soltero, casado, divorciado.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-5.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-5.png' alt='Imagen decorativa Nivel de ingresos' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Nivel de ingresos
         p.mb-0.text-center(style="color: black") Esta categorización se determina de manera explícita en función de los ingresos percibidos.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-6.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-6.png' alt='Imagen decorativa Ocupación' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Ocupación
         p.mb-0.text-center(style="color: black") Esta variable solicita el tipo de trabajo que realiza.
       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/tj-7.png' alt='Equidad' style="max-width: 177px")
+            img(src='@/assets/curso/temas/tema2/tj-7.png' alt='Imagen decorativa Nivel educativo' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Nivel educativo
         p.mb-0.text-center(style="color: black") En relación al ámbito educativo, esta clasificación se enfoca en el tipo de estudio completado, abarcando tanto el nivel alcanzado como el campo de conocimiento.
     
@@ -75,13 +75,13 @@
         p.fw-bold Realizar una buena segmentación tiene grandes beneficios, entre los principales se encuentran: 
         ul.lista-ul--color.lista-ul--separador
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt='Imagen decorativa')
             p.ps-2.mb-0(data-aos="fade-left") Ayudar a delimitar más fácilmente el grupo objeto de trabajo.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt='Imagen decorativa')
             p.ps-2.mb-0(data-aos="fade-left") Facilitar la adaptación de estrategias para la organización de eventos.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt='Imagen decorativa')
             p.ps-2.mb-0(data-aos="fade-left") Maximizar la eficiencia de los recursos asignados para un evento.
         p.mb-0 La segmentación basada en las variables demográficas, es una forma muy sencilla de clasificar la población, puesto que la información es más fácil de encontrar y organizar según sea su necesidad; es por ello que estas variables son las más utilizadas a la hora de caracterizar la población.
       img.mx-auto.col-lg-5.col-xl-4.mb-4.my-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" data-aos="fade-left")
@@ -126,13 +126,13 @@
         p.fw-bold Segmentar la población a partir de estas características, posibilita: 
         ul.lista-ul--color.lista-ul--separador
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Identificar grupos más específicos, para los eventos a desarrollar.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Ayudar a enfocarse en grupos poblacionales y direccionar mejor las actividades.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Mejorar posicionamientos en respuesta al trabajo con este tipo de segmentación.
     
     Separador
@@ -157,16 +157,16 @@
         p.fw-bold Existen múltiples beneficios de la segmentación psicográfica:
         ul.lista-ul--color.lista-ul--separador
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Conoce las preferencias e intereses de los usuarios.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Personaliza actividades o servicios.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Permite establecer estrategias más eficientes y efectivas en este tipo de segmentación.
           li.d-flex.mb-2.pb-2.align-items-start
-            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
             p.ps-2.mb-0(data-aos="fade-left") Ayuda a crear una relación más efectiva y duradera con los usuarios.
 
     Separador
@@ -206,15 +206,15 @@
           p.fw-bold.mb-0 Los beneficios de aplicar la segmentación conductual son:
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Ayuda a identificar grupos de usuarios, según su comportamiento.
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Ayuda a la organización a identificar, las necesidades de cada segmento.
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Esta segmentación permite, mantener la lealtad de los usuarios.
-      img.order-1.order-xl-2.mx-auto.col-xl-4.mb-4.my-xl-auto(src="@/assets/curso/temas/tema2/img-10.png" style="max-width: 400px" data-aos="fade-left")
+      img.order-1.order-xl-2.mx-auto.col-xl-4.mb-4.my-xl-auto(src="@/assets/curso/temas/tema2/img-10.png" style="max-width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
 </template>
 

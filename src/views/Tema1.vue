@@ -27,8 +27,8 @@
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.svg')})`}"
       style="background-repeat: no-repeat; background-position: left bottom; background-size: cover; margin-bottom: -3rem"
     )
-      img.mx-auto.pb-5(src="@/assets/curso/temas/tema1/img-2.svg" style="max-width: 1210px")
-    img.mx-auto.pb-5.d-flex.d-md-none(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 606px")
+      img.mx-auto.pb-5(src="@/assets/curso/temas/tema1/img-2.svg" style="max-width: 1210px" alt='Imagen decorativa')
+    img.mx-auto.pb-5.d-flex.d-md-none(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 606px" alt='Imagen decorativa')
       
 </template>
 

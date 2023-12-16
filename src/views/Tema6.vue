@@ -28,13 +28,13 @@
           p.mb-0.fw-bold(data-aos="fade-left") Rama ejecutiva
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Orden nacional
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Orden departamental
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Orden municipal
       .col-md-6.col-xl-4.mb-4.d-flex
         .tarjeta-numerada.color-acento-botones.ps-5.py-4.pe-3.w-100
@@ -43,28 +43,28 @@
           p.mb-0.fw-bold(data-aos="fade-left") Rama judicial
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Consejo de estado
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Consejo superior de la judicatura
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Corte constitucional
       .col-md-6.col-xl-4.mb-4.d-flex
         .tarjeta-numerada.color-primario.ps-5.py-4.pe-3.w-100
           .tarjeta-numerada__numero.text-white
             .h2.text-white 3
-          p.mb-0.fw-bold(data-aos="fade-left") Rama electoral
+          p.mb-0.fw-bold(data-aos="fade-left") Organización electoral
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Consejo nacional electoral
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Fondo rotatorio de la registraduría nacional del estado civil
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Registraduría nacional del estado civil
       .col-md-6.col-xl-4.mb-4.d-flex
         .tarjeta-numerada.color-primario.ps-5.py-4.pe-3.w-100
@@ -73,19 +73,19 @@
           p.mb-0.fw-bold(data-aos="fade-left") Órganos Autónomos e Independientes
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Autoridad nacional de televisión
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Banco de la república
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Comisión nacional del servicio civil
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Corporaciones autónomas regionales 
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Entes universitarios autónomos 
       .col-md-6.col-xl-4.mb-4.d-flex
         .tarjeta-numerada.color-acento-contenido.ps-5.py-4.pe-3.w-100
@@ -94,13 +94,13 @@
           p.mb-0.fw-bold(data-aos="fade-left") Organismos de control
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Ministerio público
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Contraloría general de la nación
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Auditoría general de la república
       .col-md-6.col-xl-4.mb-4.d-flex
         .tarjeta-numerada.color-acento-botones.ps-5.py-4.pe-3.w-100
@@ -109,16 +109,16 @@
           p.mb-0.fw-bold(data-aos="fade-left") Sistema integral, de verdad, justicia
           ul.mb-0
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Reparación y no repetición
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Comisión para el esclarecimiento de la verdad, la convivencia y la no repetición
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Jurisdicción especial para la paz
             li.d-flex.align-items-start
-              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+              img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
               p.ps-2.mb-0(data-aos="fade-left") Unidad de búsqueda de personas dadas por desaparecidas en el marco y en razón del conflicto armado
     
     Separador
@@ -152,7 +152,7 @@
           li.mb-0
         .cajon.color-primario.p-4(style="background-color: #DFE5FF")
           p.mb-0 Si bien existe libertad para crear empresa en Colombia, la ley colombiana delimitará el alcance de las actividades económicas, cuando así lo exijan los intereses, sociales, ambientales y de patrimonio cultural.
-      img.mx-auto.col-lg-5.col-xl-4.mb-4.my-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema6/img-2.png" style="max-width: 400px" data-aos="fade-left")
+      img.mx-auto.col-lg-5.col-xl-4.mb-4.my-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema6/img-2.png" style="max-width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
 
 </template>
