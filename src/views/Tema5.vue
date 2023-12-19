@@ -16,7 +16,7 @@
       .py-4.py-md-5(titulo="La esclavitud" :icono="require('@/assets/curso/temas/tema5/t-1.svg')")
         .row.col-xl-10.mx-auto
           .col-md-6.mb-4.mb-md-0
-            p Es la desigualdad de los individuos que son poseídos por otros como su propiedad, se considera un sistema de estratificación cerrado, puesto que no existe movilidad social. La esclavitud ha existido en numerosos lugares en diferentes épocas de la historia, principalmente se conoce la antigua Grecia y Roma, también en Estados Unidos, algunos países africanos y asiáticos. Esta es la forma de estratificación más desigual, se observan claramente dos estratos sociales el amo y el esclavo; este último carece de derecho alguno y pertenece en su totalidad al amo. Aparentemente, la esclavitud se considera abolida, sin embargo, en muchos países continúan prácticas de esclavitud moderna.
+            p Es la desigualdad de los individuos que son poseídos por otros como su propiedad, se considera un sistema de estratificación cerrado, puesto que no existe movilidad social. La esclavitud ha existido en numerosos lugares en diferentes épocas de la historia, principalmente se conoce la antigua Grecia y Roma, también en Estados Unidos, algunos países africanos y asiáticos. Esta es la forma de estratificación más desigual, se observan claramente dos estratos sociales: el amo y el esclavo. Este último carece de derecho alguno y pertenece en su totalidad al amo. Aparentemente, la esclavitud se considera abolida, sin embargo, en muchos países continúan prácticas de esclavitud moderna.
 
           .col-md-6
             figure
@@ -43,13 +43,13 @@
             p Estaba jerarquizada y se dividía en tres estamentos, siendo un sistema cerrado con poca movilidad entre estos; esta se divide en tres estamentos:
             ul
               li.d-flex.align-items-start
-                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
+                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa de la nobleza")
                 p.ps-2.mb-0(data-aos="fade-left") #[strong Nobleza:] controlaban junto al clero, todo el poder, ellos contaban con todos los derechos y privilegios.
               li.d-flex.align-items-start
-                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
+                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa del clero")
                 p.ps-2.mb-0(data-aos="fade-left") #[strong Clero:] se encuentra en el centro de la pirámide, sin embargo, tenían mucho poder y dominaban juntos con la nobleza.
               li.d-flex.align-items-start
-                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
+                img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa del tercer estado")
                 p.ps-2.mb-0(data-aos="fade-left") #[strong Tercer Estado:] era el estrato más bajo. No tenían derechos y privilegios.
 
           .col-md-6
@@ -64,7 +64,7 @@
                   p.ps-2.mb-0(data-aos="fade-left" style="color: black") Su jerarquía es en forma de pirámide, clasificado a la población en estratos sociales.
                 li.d-flex.align-items-center.mb-2(style="color: black")
                   span.decorador-ul 3
-                  p.ps-2.mb-0(data-aos="fade-left" style="color: black") El derecho a perteneces a un estrato social se adquiría a partir del nacimiento.
+                  p.ps-2.mb-0(data-aos="fade-left" style="color: black") El derecho a pertenecer a un estrato social se adquiría a partir del nacimiento.
                 li.d-flex.align-items-center.mb-2(style="color: black")
                   span.decorador-ul 4
                   p.ps-2.mb-0(data-aos="fade-left" style="color: black") El estrato al que pertenecía una persona por lo general permanecía a lo largo de su vida.

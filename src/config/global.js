@@ -193,9 +193,9 @@ export default {
       significado: 'es la delimitación de la población en pequeños grupos.',
     },
     {
-      termino: 'Sectores Económicos',
+      termino: 'Sectores económicos',
       significado:
-        'cada sector se refiere a una parte de la actividad económica cuyos elementos tienen características comunes, guardan una unidad y se diferencian de otras agrupaciones. Su división se realiza de acuerdo a los procesos de producción que ocurren al interior de cada uno de ellos.',
+        'cada sector se refiere a una parte de la actividad económica cuyos elementos tienen características comunes, guardan una unidad y se diferencian de otras agrupaciones. Su división se realiza de acuerdo con los procesos de producción que ocurren al interior de cada uno de ellos.',
     },
   ],
   referencias: [
@@ -217,7 +217,7 @@ export default {
     {
       referencia:
         'Francisco Coll Morales (14 de enero, 2021). <em>Sociedad estamental</em>.',
-      link: 'https://economipedia.com/',
+      link: '',
     },
     {
       referencia:
@@ -227,7 +227,7 @@ export default {
     {
       referencia:
         'Myriam Quiroa (06 de marzo, 2021). Segmentación demográfica.',
-      link: 'https://economipedia.com/',
+      link: '',
     },
   ],
   creditos: [
@@ -324,12 +324,12 @@ export default {
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
+        // {
+        //   nombre: 'Nombre',
+        //   cargo: 'Animador y Producción audiovisual',
+        //   centro:
+        //     'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        // },
       ],
     },
     {

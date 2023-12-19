@@ -106,7 +106,7 @@ export default {
       {
         titulo: 'Sector minero y energético',
         texto:
-          'Incluye las empresas relacionadas con la actividad minera y energética de cualquier tipo como, extractor de carbón, petrolero, esmeralda y gas, también se incluyen empresas generadoras de energía.',
+          'Incluye las empresas relacionadas con la actividad minera y energética de cualquier tipo como, extractoras de carbón, petroleras, productoras de esmeralda y gas, también se incluyen empresas generadoras de energía.',
         imagen: require('@/assets/curso/temas/tema4/img-12.png'),
       },
       {

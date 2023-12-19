@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los grupos poblacionales, hace referencia a un grupo de personas que comparten características similares en razón de la condición étnica, la edad y el género, estos se constituyen como una categoría con características diversas, multiculturales. En Colombia existen diferentes grupos poblacionales, principalmente se les conoce como grupos étnicos; estos son reconocidos especialmente porque están asentados en territorios de riqueza cultural y gozan de derechos especiales; en Colombia existen tres grupos étnicos: los indígenas, los negros, palenqueros y raizales y los row o población gitana.
+        p.mb-0 Los grupos poblacionales,  hace referencia a conjuntos de personas que comparten características similares, como la condición étnica, la edad y el género. Estos grupos se constituyen como categorías con diversas y multiculturales características. En Colombia, existen diferentes grupos poblacionales, comúnmente conocidos como grupos étnicos. Estos son reconocidos especialmente porque están asentados en territorios de riqueza cultural y gozan de derechos especiales. En Colombia, los grupos étnicos principales son: los indígenas, los negros, palenqueros y raizales, y los roma o población gitana.
 
     .container-100.py-4(style="background-color: #E9EDFF" data-aos="fade-left")
       SlyderB.col-xl-10.mx-auto(:datos="datosSlyder")
@@ -28,7 +28,7 @@ export default {
       {
         titulo: 'Etnia Wayuu',
         texto:
-          'Los Wayuu se encuentran ubicados en la península de la Guajira, esta localizados en el resguardo de la alta y media Guajira, en los municipios de Barrancas, Distracción, Fonseca, Maicao, Uribía, Manaure y Riohacha.',
+          'Los Wayuu se encuentran ubicados en la península de la Guajira, están localizados en el resguardo de la alta y media Guajira, en los municipios de Barrancas, Distracción, Fonseca, Maicao, Uribía, Manaure y Riohacha.',
         imagen: require('@/assets/curso/temas/tema3/img-2.png'),
       },
       {
@@ -64,7 +64,7 @@ export default {
       {
         titulo: 'Población Palenquera',
         texto:
-          'La comunidad Palenquera está conformada por los descendientes de los esclavizados que mediante actos de resistencia y de libertad, se refugiaron en los territorios de la Costa Norte de Colombia desde el Siglo XV denominados palenques. Existen 4 Palenques reconocidos: San Basilio de Palenque (Mahates – Bolívar), San José de Uré (Córdoba), Jacobo Pérez escobar (Magdalena) y La Libertad (Sucre).',
+          'La comunidad Palenquera está conformada por los descendientes de los esclavizados que, mediante actos de resistencia y de libertad, se refugiaron en los territorios de la Costa Norte de Colombia desde el Siglo XV, denominados palenques. Existen 4 Palenques reconocidos: San Basilio de Palenque (Mahates – Bolívar), San José de Uré (Córdoba), Jacobo Pérez escobar (Magdalena) y La Libertad (Sucre).',
         imagen: require('@/assets/curso/temas/tema3/img-8.png'),
       },
       {

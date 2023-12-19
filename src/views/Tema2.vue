@@ -12,7 +12,9 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La segmentación poblacional hace referencia a la organización de un grupo poblacional, según determinados atributos similares que estos comparten; consiste en dividir las personas en grupos de acuerdo con unos criterios particulares; segmentar la población, permite gestionar acciones, para el diseño y organización de este, estableciendo estrategias y herramientas para una gestión exitosa. Determinar la segmentación, dependerá de las necesidades particulares de la organización; en diferentes especialidades como el mercadeo o la investigación, se utiliza la segmentación como punto de partida, ya sea para iniciar sus proyectos o determinar al tipo de población a quien se va a apuntar sus productos o servicios, a continuación, mencionaremos unos criterios generales para clasificar la población, como se describe a continuación.
+        p.mb-0 La segmentación poblacional hace referencia a la organización de un grupo poblacional, según determinados atributos similares que estos comparten; consiste en dividir las personas en grupos de acuerdo con unos criterios particulares; segmentar la población, permite gestionar acciones, para el diseño y organización de este, estableciendo estrategias y herramientas para una gestión exitosa. Determinar la segmentación, dependerá de las necesidades particulares de la organización; en diferentes especialidades como el mercadeo o la investigación, se utiliza la segmentación como punto de partida, ya sea para iniciar sus proyectos o determinar al tipo de población a quien se va a apuntar sus productos o servicios.
+          br
+          |A continuación, mencionaremos unos criterios generales para clasificar la población, como se describe a continuación.
     
     Separador
     .titulo-segundo.color-acento-contenido
@@ -84,7 +86,7 @@
             img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right" alt='Imagen decorativa')
             p.ps-2.mb-0(data-aos="fade-left") Maximizar la eficiencia de los recursos asignados para un evento.
         p.mb-0 La segmentación basada en las variables demográficas, es una forma muy sencilla de clasificar la población, puesto que la información es más fácil de encontrar y organizar según sea su necesidad; es por ello que estas variables son las más utilizadas a la hora de caracterizar la población.
-      img.mx-auto.col-lg-5.col-xl-4.mb-4.my-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" data-aos="fade-left")
+      img.mx-auto.col-lg-5.col-xl-4.mb-4.my-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" data-aos="fade-left" alt='Imagen decorativa')
     
     Separador
     .titulo-segundo.color-acento-contenido
@@ -109,7 +111,7 @@
               img(src="@/assets/curso/temas/tema2/img-4.png", alt="Segmentación por tamaño")
           .crd_hover_txt--body(style="background-color: #FFCA00")
             h4.mb-3.text-center Segmentación por tamaño
-            p.mb-0 Se divide los segmentos, tomando en cuenta la densidad de la población; también se puede sub clasifica por zona urbana, zona suburbana y zona rural, dependiendo de las características y número de los individuos.
+            p.mb-0 Se dividen los segmentos teniendo en cuenta la densidad de la población; también se pueden subclasificar en zona urbana, zona suburbana y zona rural, según las características y el número de individuos.
 
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4(data-aos="fade-right")
         .crd_hover_txt(data-aos="flip-left")
@@ -173,7 +175,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_4 2.4 Segmentación de conducta
     
-    p En este tipo de segmentación se divide la población según la conducta del usuario, desde aquí se toman variables conductuales o de comportamiento frente a determinado servicio (o producto). Esta es una de las principales formas de segmentar la población en el marketing, sobre todo cuando se va a comercializar o divulgar un producto.
+    p En este tipo de segmentación se divide la población según la conducta del usuario, desde aquí, se toman variables conductuales o de comportamiento frente a determinado servicio (o producto). Esta es una de las principales formas de segmentar la población en el marketing, sobre todo cuando se va a comercializar o divulgar un producto.
 
     p.fw-bold.mb-5 Los principales tipos de segmentación conductual son:
 
@@ -190,7 +192,7 @@
               li.d-flex.mb-2.pb-2.align-items-start
                 p.mb-0 #[span(style="color: #FFCA00") ●] Usuarios ocasionales.
               li.d-flex.mb-2.pb-2.align-items-start
-                p.mb-0 #[span(style="color: #FFCA00") ●] Usuarios de Temporada.
+                p.mb-0 #[span(style="color: #FFCA00") ●] Usuarios de temporada.
               li.d-flex.mb-2.pb-2.align-items-start
                 p.mb-0 #[span(style="color: #FFCA00") ●] Usuarios por ocasiones especiales.
           .tarjeta.d-flex.flex-wrap.p-4(style="background-color: #FFFAE5" titulo="Segmentación por nivel<br class='d-flex d-xxl-none'> de uso")
@@ -213,7 +215,7 @@
               p.ps-2.mb-0(data-aos="fade-left") Ayuda a la organización a identificar, las necesidades de cada segmento.
             li.d-flex.align-items-start
               img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
-              p.ps-2.mb-0(data-aos="fade-left") Esta segmentación permite, mantener la lealtad de los usuarios.
+              p.ps-2.mb-0(data-aos="fade-left") Contribuye a mantener la lealtad de los usuarios.
       img.order-1.order-xl-2.mx-auto.col-xl-4.mb-4.my-xl-auto(src="@/assets/curso/temas/tema2/img-10.png" style="max-width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
 </template>
