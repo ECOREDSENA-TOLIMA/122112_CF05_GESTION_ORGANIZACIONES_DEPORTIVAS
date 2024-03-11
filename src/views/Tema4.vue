@@ -64,7 +64,7 @@ export default {
       {
         titulo: 'Sector agropecuario',
         texto:
-          'Está compuesto por las actividades agrícolas, pecuarias forestal pesquero y acuícola; este sector es de gran importancia por las características geográficas del país, condiciones climáticas, que permiten gran sustento de esta actividad.',
+          'Está compuesto por las actividades agrícolas, pecuarias, forestal, pesquero y acuícola; este sector es de gran importancia por las características geográficas del país, condiciones climáticas, que permiten gran sustento de esta actividad.',
         imagen: require('@/assets/curso/temas/tema4/img-5.png'),
       },
       {

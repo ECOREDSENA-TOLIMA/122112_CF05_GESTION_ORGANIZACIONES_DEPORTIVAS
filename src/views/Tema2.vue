@@ -98,13 +98,13 @@
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4(data-aos="fade-right")
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
-            figure
+            figure(@mouseover="mostrarIndicador = false")
               img(src="@/assets/curso/temas/tema2/img-3.png", alt="Segmentación por regiones o por zonas")
           .crd_hover_txt--body(style="background-color: #2D54FE")
             h4.mb-3.text-white.text-center Segmentación por regiones o por zonas 
             p.mb-0.text-white La segmentación por regiones clasifica la población según divisiones geográficas, recopilando datos según ubicación. Las diferencias entre la capital y los pueblos influyen en la planificación de eventos deportivos, adaptándola a las características específicas de cada lugar.
 
-      .col-xl-4.col-lg-6.col-md-9.col-11.mb-4(data-aos="flip-up")
+      .col-xl-4.col-lg-6.col-md-9.col-11.mb-4(data-aos="flip-up")(@mouseover="mostrarIndicador = false")
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -113,7 +113,7 @@
             h4.mb-3.text-center Segmentación por tamaño
             p.mb-0 Se dividen los segmentos teniendo en cuenta la densidad de la población; también se pueden subclasificar en zona urbana, zona suburbana y zona rural, según las características y el número de individuos.
 
-      .col-xl-4.col-lg-6.col-md-9.col-11.mb-4(data-aos="fade-right")
+      .col-xl-4.col-lg-6.col-md-9.col-11.mb-4(data-aos="fade-right")(@mouseover="mostrarIndicador = false")
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -175,7 +175,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_4 2.4 Segmentación de conducta
     
-    p En este tipo de segmentación se divide la población según la conducta del usuario, desde aquí, se toman variables conductuales o de comportamiento frente a determinado servicio (o producto). Esta es una de las principales formas de segmentar la población en el marketing, sobre todo cuando se va a comercializar o divulgar un producto.
+    p En este tipo de segmentación se divide la población según la conducta del usuario, desde aquí, se toman variables conductuales o de comportamiento frente a determinado servicio (o producto). Esta es una de las principales formas de segmentar la población en el #[i marketing], sobre todo cuando se va a comercializar o divulgar un producto.
 
     p.fw-bold.mb-5 Los principales tipos de segmentación conductual son:
 
@@ -185,7 +185,7 @@
           .tarjeta.d-flex.flex-wrap.p-4(style="background-color: #FFFAE5" titulo="Segmentación por beneficios")
             p.mb-0 Este tipo de variable forma segmentos homogéneos de usuarios, basándose en los beneficios que buscan en sus productos o servicios, se basan en las características que tiene los productos o servicios, enfocándolos en los beneficios que buscan los usuarios. Por ejemplo: la persona para seleccionar un gimnasio, alguno lo seleccionará por los equipos, otro por los entrenadores, otro por el equipo interdisciplinario, etc.
           .tarjeta.d-flex.flex-wrap.p-4(style="background-color: #FFFAE5" titulo="Segmentación por <br class='d-flex d-xxl-none'>frecuencia de uso")
-            p.mb-0 Esta variable se agrupa los individuos en función del uso que se le dé a un producto o servicio, por ejemplo:
+            p.mb-3 Esta variable se agrupa los individuos en función del uso que se le dé a un producto o servicio, por ejemplo:
             ul.lista-ul--color.lista-ul--separador
               li.d-flex.mb-2.pb-2.align-items-start
                 p.mb-0 #[span(style="color: #FFCA00") ●] Usuarios regulares o frecuentes.
@@ -196,7 +196,7 @@
               li.d-flex.mb-2.pb-2.align-items-start
                 p.mb-0 #[span(style="color: #FFCA00") ●] Usuarios por ocasiones especiales.
           .tarjeta.d-flex.flex-wrap.p-4(style="background-color: #FFFAE5" titulo="Segmentación por nivel<br class='d-flex d-xxl-none'> de uso")
-            p.mb-0 Esta segmentación se realiza según el nivel o cantidad que las personas, consumen un producto o servicio, estos se pueden agrupar así:
+            p.mb-3 Esta segmentación se realiza según el nivel o cantidad que las personas, consumen un producto o servicio, estos se pueden agrupar así:
             ul.lista-ul--color.lista-ul--separador
               li.d-flex.mb-2.pb-2.align-items-start
                 p.mb-0 #[span(style="color: #FFCA00") ●] De alto volumen de compra o servicio.
@@ -227,6 +227,8 @@ export default {
   components: { TabsA },
   data: () => ({
     // variables de vue
+    mostrarIndicador: true,
+    indicadorTarjetaFlip: true,
   }),
   mounted() {
     this.$nextTick(() => {

@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los grupos poblacionales,  hace referencia a conjuntos de personas que comparten características similares, como la condición étnica, la edad y el género. Estos grupos se constituyen como categorías con diversas y multiculturales características. En Colombia, existen diferentes grupos poblacionales, comúnmente conocidos como grupos étnicos. Estos son reconocidos especialmente porque están asentados en territorios de riqueza cultural y gozan de derechos especiales. En Colombia, los grupos étnicos principales son: los indígenas, los negros, palenqueros y raizales, y los roma o población gitana.
+        p.mb-0 Los grupos poblacionales hacen referencia a conjuntos de personas que comparten características similares como la condición étnica, la edad y el género. Estos grupos se constituyen como categorías con diversas y multiculturales características. En Colombia, existen diferentes grupos poblacionales, comúnmente conocidos como grupos étnicos. Estos son reconocidos especialmente porque están asentados en territorios de riqueza cultural y gozan de derechos especiales. Los grupos étnicos principales son: los indígenas, los negros, palenqueros y raizales, y los Rrom o población gitana.
 
     .container-100.py-4(style="background-color: #E9EDFF" data-aos="fade-left")
       SlyderB.col-xl-10.mx-auto(:datos="datosSlyder")
