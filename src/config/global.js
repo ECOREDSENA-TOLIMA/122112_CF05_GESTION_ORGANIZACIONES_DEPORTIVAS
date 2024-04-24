@@ -229,6 +229,11 @@ export default {
         'Myriam Quiroa (06 de marzo, 2021). Segmentación demográfica.',
       link: '',
     },
+    {
+      referencia:
+        'Francisco Coll Morales (14 de enero, 2021). Sociedad estamental.',
+      link: 'https://economipedia.com/definiciones/sociedad-estamental.html',
+    },
   ],
   creditos: [
     {
