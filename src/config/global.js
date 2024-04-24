@@ -217,7 +217,7 @@ export default {
     {
       referencia:
         'Francisco Coll Morales (14 de enero, 2021). <em>Sociedad estamental</em>.',
-      link: '',
+      link: 'https://economipedia.com/definiciones/sociedad-estamental.html ',
     },
     {
       referencia:
@@ -227,12 +227,14 @@ export default {
     {
       referencia:
         'Myriam Quiroa (06 de marzo, 2021). Segmentación demográfica.',
-      link: '',
+      link:
+        'https://economipedia.com/definiciones/segmentacion-demografica.html ',
     },
     {
       referencia:
-        'Francisco Coll Morales (14 de enero, 2021). Sociedad estamental.',
-      link: 'https://economipedia.com/definiciones/sociedad-estamental.html',
+        'Observatorio Nacional de Migración y Salud. (2022). Documento metodológico Observatorio Nacional de Migración y Salud. Recuperado de ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/GCFI/documento-metodologico-onms.pdf',
     },
   ],
   creditos: [
