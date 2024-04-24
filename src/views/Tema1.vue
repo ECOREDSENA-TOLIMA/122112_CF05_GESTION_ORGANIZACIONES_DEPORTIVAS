@@ -9,11 +9,11 @@
     
     .d-flex.flex-wrap.mb-5
       .col-lg-7.pe-lg-4
-        p La caracterización de la población, según Sánchez Upegui se hace a partir de un:
+        p La caracterización de la población, según el Observatorio Nacional de Migración y Salud:
         .bloque-texto-d.color-secundario.p-4.pb-0
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            p.text-regular consiste en un análisis de índole esencialmente descriptivo, puede realizarse desde distintos enfoques metodológicos, haciendo uso de fuentes primarias y secundarias de información, con el propósito de aproximarse al conocimiento y comprensión del tamaño, estructura, características, dinámicas, y experiencias asociadas a la población migrantes, refugiada y retornada en un momento del tiempo específico.
+            p.text-regular consiste en un análisis de índole esencialmente descriptivo, puede realizarse desde distintos enfoques metodológicos, haciendo uso de fuentes primarias y secundarias de información, con el propósito de aproximarse al conocimiento y comprensión del tamaño, estructura, características, dinámicas, y experiencias asociadas a la población migrantes, refugiada y retornada en un momento del tiempo específico
             i.fas.fa-quote-right
           .bloque-texto-d__autor
             p.fw-bold 2022
