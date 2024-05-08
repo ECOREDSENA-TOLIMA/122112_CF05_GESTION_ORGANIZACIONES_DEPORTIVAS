@@ -151,8 +151,35 @@
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 Es la segmentación de individuos que se realiza según, variables psicológicas y demográficas; teniendo en cuenta aspectos como la personalidad y su estilo de vida desde la psicología;  por otra parte, desde la demografía, se toman características como rasgos de tipo social, cultural, demográficos, políticos o cualquier aspecto compartido por la población. Dentro de las principales variables psicológicas tenemos: personalidad, estilo de vida y valores. A continuación, se podrá conocer sus especificidades: 
-      img.mx-auto.mb-5(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 766px" alt="Imagen decorativa")
       
+      .row.justify-content-center.align-items-center.mb-5
+        .col-sm-6.col-lg-3.mb-4.mb-sm-0
+          .tarjeta--boton.color-secundario.p-4
+            .row.justify-content-center.mb-3
+              .col-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-11.svg', alt='Texto que describa la imagen')
+
+            h5.text-center Personalidad
+
+        .col-sm-6.col-lg-3.mb-4.mb-sm-0
+          .tarjeta--boton.color-secundario.p-4
+            .row.justify-content-center.mb-3
+              .col-12
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-12.svg', alt='Texto que describa la imagen')
+
+            h5.text-center Estilo de vida
+
+        .col-sm-6.col-lg-3.mb-4.mb-sm-0
+          .tarjeta--boton.color-secundario.p-4
+            .row.justify-content-center.mb-3
+              .col-11
+                figure
+                  img(src='@/assets/curso/temas/tema2/img-13.svg', alt='Texto que describa la imagen')
+
+            h5.text-center Valores
+
     .col-xl-10.mx-auto.d-flex.flex-wrap
       img.mx-auto.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-9.png" style="max-width: 400px" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4
@@ -183,7 +210,7 @@
       .order-2.order-xl-1.col-xl-8.pe-xl-4(data-aos="fade-right")
         TabsA.color-acento-contenido.mb-5
           .tarjeta.d-flex.flex-wrap.p-4(style="background-color: #FFFAE5" titulo="Segmentación por beneficios")
-            p.mb-0 Este tipo de variable forma segmentos homogéneos de usuarios, basándose en los beneficios que buscan en sus productos o servicios, se basan en las características que tiene los productos o servicios, enfocándolos en los beneficios que buscan los usuarios. Por ejemplo: la persona para seleccionar un gimnasio, alguno lo seleccionará por los equipos, otro por los entrenadores, otro por el equipo interdisciplinario, etc.
+            p.mb-0 Este tipo de variable forma segmentos homogéneos de usuarios, basándose en los beneficios que buscan en sus productos o servicios, se basan en las características que tienen los productos o servicios, enfocándolos en los beneficios que buscan los usuarios. Por ejemplo: la persona para seleccionar un gimnasio, alguno lo seleccionará por los equipos, otro por los entrenadores, otro por el equipo interdisciplinario, etc.
           .tarjeta.d-flex.flex-wrap.p-4(style="background-color: #FFFAE5" titulo="Segmentación por <br class='d-flex d-xxl-none'>frecuencia de uso")
             p.mb-3 Esta variable se agrupa los individuos en función del uso que se le dé a un producto o servicio, por ejemplo:
             ul.lista-ul--color.lista-ul--separador
@@ -215,7 +242,7 @@
               p.ps-2.mb-0(data-aos="fade-left") Ayuda a la organización a identificar, las necesidades de cada segmento.
             li.d-flex.align-items-start
               img.mt-1(src="@/assets/curso/temas/decorador-ul-v2.svg" style="max-width: 8px" data-aos="fade-right" alt="Imagen decorativa")
-              p.ps-2.mb-0(data-aos="fade-left") Contribuye a mantener la lealtad de los usuarios.
+              p.ps-2.mb-0(data-aos="fade-left") Esta segmentación contribuye a mantener la lealtad de los usuarios.
       img.order-1.order-xl-2.mx-auto.col-xl-4.mb-4.my-xl-auto(src="@/assets/curso/temas/tema2/img-10.png" style="max-width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
 </template>

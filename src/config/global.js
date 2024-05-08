@@ -163,18 +163,18 @@ export default {
   },
   complementario: [
     {
-      tema: '3. Sistema de castas',
-      referencia: 'Historiando (s.f.). Sistema de castas. ',
-      tipo: 'Página web',
-      link: 'https://www.historiando.org/sistema-de-castas/',
-    },
-    {
-      tema: '5. Grupos étnicos en Colombia',
+      tema: '3. Grupo poblacional',
       referencia:
         'Ministerio de educación nacional (s.f.). Grupos étnicos en Colombia.',
       tipo: 'Página web',
       link:
         'https://www.mineducacion.gov.co/portal/micrositios-preescolar-basica-y-media/Grupos-Etnicos-de-Colombia/',
+    },
+    {
+      tema: '5. Estratificación social ',
+      referencia: 'Historiando (s.f.). Sistema de castas. ',
+      tipo: 'Página web',
+      link: 'https://historiando.org/sistema-de-castas/',
     },
   ],
   glosario: [
@@ -264,7 +264,7 @@ export default {
         {
           nombre: 'Paola Andrea Quintero Aguilar',
           cargo: 'Diseño instruccional',
-          centro: 'Centro de Gestión Industrial - Regional Bogotá',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',

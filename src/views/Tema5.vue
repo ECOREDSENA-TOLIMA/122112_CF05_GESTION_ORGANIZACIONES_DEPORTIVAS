@@ -10,7 +10,7 @@
     .col-xl-10.mx-auto.d-flex.flex-wrap.mb-5
       img.mx-auto.col-lg-5.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-1.png" style="max-width: 505px" alt="Imagen decorativa")
       .col-lg-7.ps-lg-4
-        p.mb-0 La estratificación social es una forma de clasificar los componentes de una sociedad determinada, teniendo en cuenta criterios de riqueza, estatus ocupación y poder, con los cuales se divide a la población. Cada estrato está compuesto por personas que comparten características socioeconómicas similares; desde la estratificación social, se permite observar los grandes niveles de desigualdad que hay en nuestras sociedades. Existen cuatro tipos de estratificación social: la esclavitud, el sistema de castas, el sistema estamental y el sistema de clases sociales. A continuación, se relacionan las especificaciones de cada uno:
+        p.mb-0 La estratificación social es una forma de clasificar los componentes de una sociedad determinada, teniendo en cuenta criterios de riqueza, estatus, ocupación y poder, con los cuales se divide a la población. Cada estrato está compuesto por personas que comparten características socioeconómicas similares; desde la estratificación social, se permite observar los grandes niveles de desigualdad que hay en nuestras sociedades. Existen cuatro tipos de estratificación social: la esclavitud, el sistema de castas, el sistema estamental y el sistema de clases sociales. A continuación, se relacionan las especificaciones de cada uno:
     
     TabsB.color-acento-botones(data-aos="fade-left")
       .py-4.py-md-5(titulo="La esclavitud" :icono="require('@/assets/curso/temas/tema5/t-1.svg')")

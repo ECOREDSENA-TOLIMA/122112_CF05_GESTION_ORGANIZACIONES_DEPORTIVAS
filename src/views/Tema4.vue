@@ -12,7 +12,7 @@
       .col-lg-8.ps-lg-4
         p Los sectores económicos de un país, territorio o estado son aquellas divisiones de sus actividades económicas; en Colombia estos sectores económicos se dividen en tres: primario (agrícola), sector secundario (la industria) y terciario (prestación servicios); esta división se conoce como la división clásica de los sectores económicos.
         .cajon.color-primario.p-4(style="background-color: #E0F4FE")
-          p.fw-bold.mb-0 Igualmente existe otra clasificación de los sectores económicos según actividad económica, los cuales son: sector agropecuario, sector de servicios, sector industrial, sector de transporte, sector del comercio, sector financiero, sector de la construcción, sector minero y energético y sector de las comunicaciones.
+          p.fw-bold.mb-0 Igualmente, existe otra clasificación de los sectores económicos según actividad económica, los cuales son: sector agropecuario, sector de servicios, sector industrial, sector de transporte, sector del comercio, sector financiero, sector de la construcción, sector minero y energético y sector de las comunicaciones.
 
     Separador
     .titulo-segundo.color-acento-contenido
@@ -51,7 +51,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_4_2 4.2 División según la actividad económica
     
-    p.mb-5 Hace referencia a la parte del proceso de producción en el que se encuentren las labores que se realiza, a continuación, se puede conocer su clasificación: 
+    p.mb-5 Hace referencia a la parte del proceso de producción en el que se encuentren las labores que se realizan, a continuación, se puede conocer su clasificación: 
     .container-100.py-4(style="background-color: #E9EDFF" data-aos="fade-left")
       SlyderB.col-xl-10.mx-auto(:datos="datosSlyder")
 </template>
@@ -70,7 +70,7 @@ export default {
       {
         titulo: 'Sector de servicios',
         texto:
-          'Engloba todas las actividades relacionas con los servicios no productores o transformadores de bienes, se incluyen sub sectores como educación, salud, industrias creativas, actividades administrativas, etc.',
+          'Engloba todas las actividades relacionas con los servicios no productores o transformadores de bienes, se incluyen subsectores como educación, salud, industrias creativas, actividades administrativas, etc.',
         imagen: require('@/assets/curso/temas/tema4/img-6.png'),
       },
       {
