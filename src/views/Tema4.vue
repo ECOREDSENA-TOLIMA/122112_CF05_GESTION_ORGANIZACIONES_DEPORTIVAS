@@ -51,7 +51,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_4_2 4.2 División según la actividad económica
     
-    p.mb-5 Hace referencia a la parte del proceso de producción en el que se encuentren las labores que se realizan, a continuación, se puede conocer su clasificación: 
+    p.mb-5 Hace referencia a la parte del proceso de producción en el que se encuentren las labores que se realizan; a continuación, se puede conocer su clasificación: 
     .container-100.py-4(style="background-color: #E9EDFF" data-aos="fade-left")
       SlyderB.col-xl-10.mx-auto(:datos="datosSlyder")
 </template>
